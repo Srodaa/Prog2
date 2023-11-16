@@ -1,0 +1,21 @@
+1. Person
+- A person birth date should be between 65 and 18. otherwise the constructor should trow an exception.
+- Constructor with nickName can call the other constructor
+
+2. Employee
+- in the toString to not write out the while department, only its name and id
+- setDepartment: if the department is null, it is ok. Otherwise if the check that the department contains the employee. If yes, the employee can get the department, If no, throw the exception. 
+
+3. EmployeeWithSizes
+Shoesize should be between 50 and 10. Otherwise throw an exception
+Height should be between 300 and 20. Otherwise throw an exception
+
+4. Department
+- addemployee: set the department for the employee also
+- removeemployee: set the department for the employee also (to null)
+
+
+
+
+
+
